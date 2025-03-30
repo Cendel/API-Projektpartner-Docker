@@ -1,0 +1,17 @@
+asgiref
+Django>=4.2.9
+django-cors-headers
+django-extensions
+django-use-email-as-username
+djangorestframework
+djangorestframework-simplejwt
+Pillow
+PyJWT
+python-decouple
+pytz
+setuptools
+sqlparse
+tzdata
+psycopg2-binary
+django-debug-toolbar
+drf-yasg
