@@ -1,6 +1,5 @@
 #!/bin/sh
 
-# PostgreSQL'in hazır olmasını bekle
 echo "📡 Waiting for postgres..."
 
 while ! nc -z db 5432; do
